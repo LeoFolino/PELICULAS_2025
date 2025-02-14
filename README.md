@@ -1,1 +1,1 @@
-- [ ] El Exorcista (1973)
+- [x] El Exorcista (1973)
