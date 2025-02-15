@@ -133,7 +133,7 @@
 | ❌ | Batman: El caballero de la noche | 2008 | - |
 | ❌ | Batman: El caballero de la noche asciende | 2012 | - |
 
-| ✅ | Película | Año | Nota |
+| ⬜ | Película | Año | Nota |
 |----|------------------------------------------------|------|------|
 | ❌ | Indiana Jones: En busca del arca perdida | 1981 | - |
 | ❌ | Indiana Jones: El templo maldito | 1984 | - |
