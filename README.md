@@ -11,7 +11,7 @@
 | ❌ | Titanic                                       | 1997 | - |       
 | ❌ | La La Land                                    | 2016 | - |       
 | ❌ | Orgullo y Prejuicio                           | 2005 | - |       
-| ✅ | Meet Joe Black                                | 1998 | - |       
+| ✅ | Meet Joe Black                                | 1998 | 90 |       
 | ❌ | Eterno Resplandor de una Mente sin Recuerdos  | 2004 | - |       
 | ❌ | No Strings Attached                           | 2011 | - |       
 | ❌ | Friends with Benefits                         | 2011 | - |       
@@ -19,7 +19,7 @@
 | ❌ | El Padrino I                                  | 1972 | - |        
 | ❌ | El Padrino II                                 | 1974 | - |        
 | ❌ | Forrest Gump                                  | 1994 | - |        
-| ✅ | Baby Driver                                   | 2017 | - |        
+| ✅ | Baby Driver                                   | 2017 | 87 |        
 | ❌ | El Club de la Pelea                           | 1999 | - |        
 | ❌ | El Pianista                                   | 2002 | - |        
 | ❌ | Se7en                                         | 1995 | - |         
@@ -27,7 +27,7 @@
 | ❌ | Memento                                       | 2000 | - |         
 | ❌ | El Silencio de los Inocentes                  | 1991 | - |         
 | ❌ | El Resplandor                                 | 1980 | - |         
-| ✅ | Lo que ellas quieren                          | 2000 | - |         
+| ✅ | Lo que ellas quieren                          | 2000 | 72 |         
 | ❌ | Pulp Fiction                                  | 1994 | - |         
 | ❌ | Blade Runner                                  | 1982 | - |         
 | ❌ | Blade Runner 2049                             | 2017 | - |         
@@ -97,12 +97,12 @@
 # SCREAM
 | ⬜ | Película | Año | Nota |                                                    
 |----|-----------|------|---|                                                   
-| ✅ | Scream    | 1996 | - |                                                        
-| ✅ | Scream 2  | 1997 | - |                                                      
-| ✅ | Scream 3  | 2000 | - |                                                      
-| ✅ | Scream 4  | 2011 | - |                                                      
-| ✅ | Scream 5  | 2022 | - |                                                      
-| ✅ | Scream VI | 2023 | - |                                                     
+| ✅ | Scream    | 1996 | 96 |                                                        
+| ✅ | Scream 2  | 1997 | 90 |                                                      
+| ✅ | Scream 3  | 2000 | 60 |                                                      
+| ✅ | Scream 4  | 2011 | 72 |                                                      
+| ✅ | Scream 5  | 2022 | 83 |                                                      
+| ✅ | Scream VI | 2023 | 77 |                                                     
 
 ---
 
