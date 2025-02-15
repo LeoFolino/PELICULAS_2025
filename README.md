@@ -1,3 +1,4 @@
+# PELICULAS 2025
 | ⬜ | Película | Año | Nota |                                                    
 |----|-----------------------------------------------|------|------|
 | ❌ | El Exorcista                                  | 1973 | - |     
@@ -70,110 +71,136 @@
 
 ---
 
-Todas las demás tablas han sido ajustadas a este mismo ancho para garantizar la uniformidad en GitHub.
-
+# STAR WARS
 | ⬜ | Película | Año | Nota |                                                    
-|----|------------------------------------------------|------|------|            
-| ❌ | Star Wars: Episodio I - La amenaza fantasma | 2000 | - |                   
-| ❌ | Star Wars: Episodio II - El ataque de los clones | 2002 | - |              
+|----|---------------------------------------------------|------|------|            
+| ❌ | Star Wars: Episodio I - La amenaza fantasma       | 2000 | - |                   
+| ❌ | Star Wars: Episodio II - El ataque de los clones  | 2002 | - |              
 | ❌ | Star Wars: Episodio III - La venganza de los Sith | 2005 | - |             
-| ❌ | Star Wars: Episodio IV - Una nueva esperanza | 1977 | - |                  
-| ❌ | Star Wars: Episodio V - El Imperio contraataca | 1980 | - |                
-| ❌ | Star Wars: Episodio VI - El retorno del Jedi | 1983 | - |                  
+| ❌ | Star Wars: Episodio IV - Una nueva esperanza      | 1977 | - |                  
+| ❌ | Star Wars: Episodio V - El Imperio contraataca    | 1980 | - |                
+| ❌ | Star Wars: Episodio VI - El retorno del Jedi      | 1983 | - |                  
 
+---
+
+# DIE HARD
 | ⬜ | Película | Año | Nota |                                                    
-|----|----------------------------------|------|------|                          
-| ❌ | Duro de Matar | 1988 | - |                                                 
-| ❌ | Duro de Matar 2 | 1990 | - |                                               
-| ❌ | Duro de Matar 3: La Venganza | 1995 | - |                                  
-| ❌ | Duro de Matar 4.0 | 2007 | - |                                             
+|----|---------------------------------------|------|---|                          
+| ❌ | Duro de Matar                         | 1988 | - |                                                 
+| ❌ | Duro de Matar 2                       | 1990 | - |                                               
+| ❌ | Duro de Matar 3: La Venganza          | 1995 | - |                                  
+| ❌ | Duro de Matar 4.0                     | 2007 | - |                                             
 | ❌ | Duro de Matar: Un Buen Día para Morir | 2013 | - |                         
 
+---
+
+# SCREAM
 | ⬜ | Película | Año | Nota |                                                    
-|----|---------|------|------|                                                   
-| ✅ | Scream | 1996 | - |                                                        
-| ✅ | Scream 2 | 1997 | - |                                                      
-| ✅ | Scream 3 | 2000 | - |                                                      
-| ✅ | Scream 4 | 2011 | - |                                                      
-| ✅ | Scream 5 | 2022 | - |                                                      
+|----|-----------|------|---|                                                   
+| ✅ | Scream    | 1996 | - |                                                        
+| ✅ | Scream 2  | 1997 | - |                                                      
+| ✅ | Scream 3  | 2000 | - |                                                      
+| ✅ | Scream 4  | 2011 | - |                                                      
+| ✅ | Scream 5  | 2022 | - |                                                      
 | ✅ | Scream VI | 2023 | - |                                                     
 
+---
+
+# EL SEÑOR DE LOS ANILLOS
 | ⬜ | Película | Año | Nota |                                                    
 |----|----------------------------------------------------|------|------|        
-| ❌ | El Señor de los Anillos: La Comunidad del Anillo | 2001 | - |              
-| ❌ | El Señor de los Anillos: Las Dos Torres | 2002 | - |                       
-| ❌ | El Señor de los Anillos: El Retorno del Rey | 2003 | - |                   
+| ❌ | El Señor de los Anillos: La Comunidad del Anillo   | 2001 | - |              
+| ❌ | El Señor de los Anillos: Las Dos Torres            | 2002 | - |                       
+| ❌ | El Señor de los Anillos: El Retorno del Rey        | 2003 | - |                   
 
+---
+
+# MISSION IMPOSSIBLE
 | ⬜ | Película | Año | Nota |                                                    
-|----|----------------------------------|------|------|                          
-| ❌ | Mission: Impossible | 1996 | - |                                           
-| ❌ | Mission: Impossible 2 | 2000 | - |                                         
-| ❌ | Mission: Impossible 3 | 2006 | - |                                         
-| ❌ | Mission: Impossible - Protocolo Fantasma | 2011 | - |                      
-| ❌ | Mission: Impossible - Nación Secreta | 2015 | - |                          
-| ❌ | Mission: Impossible - Repercusión | 2018 | - |                             
+|----|------------------------------------------------|------|---|                          
+| ❌ | Mission: Impossible                            | 1996 | - |                                           
+| ❌ | Mission: Impossible 2                          | 2000 | - |                                         
+| ❌ | Mission: Impossible 3                          | 2006 | - |                                         
+| ❌ | Mission: Impossible - Protocolo Fantasma       | 2011 | - |                      
+| ❌ | Mission: Impossible - Nación Secreta           | 2015 | - |                          
+| ❌ | Mission: Impossible - Repercusión              | 2018 | - |                             
 | ❌ | Mission: Impossible - Sentencia Mortal Parte 1 | 2023 | - |                
 | ❌ | Mission: Impossible - Sentencia Mortal Parte 2 | 2025 | - |                
 
-| ⬜ | Película | Año | Nota |                                                    
-|----|----------------------------------|------|------|                          
-| ❌ | Spider-Man | 2002 | - |                                                    
-| ❌ | Spider-Man 2 | 2004 | - |                                                  
-| ❌ | Spider-Man 3 | 2007 | - |                                                  
-| ❌ | The Amazing Spider-Man | 2012 | - |                                        
-| ❌ | The Amazing Spider-Man 2 | 2014 | - |                                      
+---
 
+# SPIDER-MAN
 | ⬜ | Película | Año | Nota |                                                    
-|----|------------------------------------------------|------|------|            
+|----|----------------------------------|------|---|                          
+| ❌ | Spider-Man                       | 2002 | - |                                                    
+| ❌ | Spider-Man 2                     | 2004 | - |                                                  
+| ❌ | Spider-Man 3                     | 2007 | - |                                                  
+| ❌ | The Amazing Spider-Man           | 2012 | - |                                        
+| ❌ | The Amazing Spider-Man 2         | 2014 | - |                                      
+
+---
+
+# PIRATAS DEL CARIBE
+| ⬜ | Película | Año | Nota |                                                    
+|----|--------------------------------------------------|------|---|            
 | ❌ | Piratas del Caribe: La maldición del Perla Negra | 2003 | - |              
-| ❌ | Piratas del Caribe: El cofre de la muerte | 2006 | - |                     
-| ❌ | Piratas del Caribe: En el fin del mundo | 2007 | - |                       
-| ❌ | Piratas del Caribe: Navegando aguas misteriosas | 2011 | - |               
-| ❌ | Piratas del Caribe: La venganza de Salazar | 2017 | - |                    
+| ❌ | Piratas del Caribe: El cofre de la muerte        | 2006 | - |                     
+| ❌ | Piratas del Caribe: En el fin del mundo          | 2007 | - |                       
+| ❌ | Piratas del Caribe: Navegando aguas misteriosas  | 2011 | - |               
+| ❌ | Piratas del Caribe: La venganza de Salazar       | 2017 | - |                    
 
-| ⬜ | Película | Año | Nota |                                                    
-|----|------------------------------------------------|------|------|            
-| ❌ | Batman Inicia | 2005 | - |                                                 
-| ❌ | Batman: El caballero de la noche | 2008 | - |                              
-| ❌ | Batman: El caballero de la noche asciende | 2012 | - |                     
+---
 
+# THE DARK KNIGHT
 | ⬜ | Película | Año | Nota |                                                    
-|----|------------------------------------------------|------|------|            
-| ❌ | Indiana Jones: En busca del arca perdida | 1981 | - |                      
-| ❌ | Indiana Jones: El templo maldito | 1984 | - |                              
-| ❌ | Indiana Jones: La última cruzada | 1989 | - |                              
+|----|------------------------------------------------|------|---|            
+| ❌ | Batman Inicia                                  | 2005 | - |                                                 
+| ❌ | Batman: El caballero de la noche               | 2008 | - |                              
+| ❌ | Batman: El caballero de la noche asciende      | 2012 | - |                     
+
+---
+
+# INDIANA JONES
+| ⬜ | Película | Año | Nota |                                                    
+|----|----------------------------------------------------|------|---|            
+| ❌ | Indiana Jones: En busca del arca perdida           | 1981 | - |                      
+| ❌ | Indiana Jones: El templo maldito                   | 1984 | - |                              
+| ❌ | Indiana Jones: La última cruzada                   | 1989 | - |                              
 | ❌ | Indiana Jones y el reino de la calavera de cristal | 2008 | - |            
 
+---
+
+# UCM
 | ⬜ | Película | Año | Nota |                                                    
-|----|------------------------------------------------|------|------|            
-| ❌ | Capitán América: El primer vengador | 2011 | - |                           
-| ❌ | Iron Man | 2008 | - |                                                      
-| ❌ | Iron Man 2 | 2010 | - |                                                    
-| ❌ | Thor | 2011 | - |                                                          
-| ❌ | The Avengers | 2012 | - |                                                  
-| ❌ | Iron Man 3 | 2013 | - |                                                    
-| ❌ | Thor: Un mundo oscuro | 2013 | - |                                         
-| ❌ | Capitán América: El Soldado del Invierno | 2014 | - |                      
-| ❌ | Guardianes de la Galaxia | 2014 | - |                                      
-| ❌ | Guardianes de la Galaxia Vol. 2 | 2017 | - |                               
-| ❌ | Avengers: Era de Ultrón | 2015 | - |                                       
-| ❌ | Ant-Man | 2015 | - |                                                       
-| ❌ | Capitán América: Civil War | 2016 | - |                                    
-| ❌ | Black Widow | 2021 | - |                                                   
-| ❌ | Spider-Man: De regreso a casa | 2017 | - |                                 
-| ❌ | Black Panther | 2018 | - |                                                 
-| ❌ | Doctor Strange | 2016 | - |                                                
-| ❌ | Thor: Ragnarok | 2017 | - |                                                
-| ❌ | Ant-Man and the Wasp | 2018 | - |                                          
-| ❌ | Avengers: Infinity War | 2018 | - |                                        
-| ❌ | Avengers: Endgame | 2019 | - |                                             
-| ❌ | Spider-Man: Lejos de casa | 2019 | - |                                     
-| ❌ | Shang-Chi y la leyenda de los Diez Anillos | 2021 | - |                    
-| ❌ | Eternals | 2021 | - |                                                      
-| ❌ | Spider-Man: Sin camino a casa | 2021 | - |                                 
-| ❌ | Doctor Strange en el multiverso de la locura | 2022 | - |                  
-| ❌ | Thor: Amor y trueno | 2022 | - |                                           
-| ❌ | Black Panther: Wakanda Forever | 2022 | - |                                
-| ❌ | Ant-Man and the Wasp: Quantumania | 2023 | - |                             
-| ❌ | Guardianes de la Galaxia Vol. 3 | 2023 | - |                               
-| ❌ | The Marvels | 2023 | - |                                                   
+|----|------------------------------------------------|------|---|            
+| ❌ | Capitán América: El primer vengador            | 2011 | - |                           
+| ❌ | Iron Man                                       | 2008 | - |                                                      
+| ❌ | Iron Man 2                                     | 2010 | - |                                                    
+| ❌ | Thor                                           | 2011 | - |                                                          
+| ❌ | The Avengers                                   | 2012 | - |                                                  
+| ❌ | Iron Man 3                                     | 2013 | - |                                                    
+| ❌ | Thor: Un mundo oscuro                          | 2013 | - |                                         
+| ❌ | Capitán América: El Soldado del Invierno       | 2014 | - |                      
+| ❌ | Guardianes de la Galaxia                       | 2014 | - |                                      
+| ❌ | Guardianes de la Galaxia Vol. 2                | 2017 | - |                               
+| ❌ | Avengers: Era de Ultrón                        | 2015 | - |                                       
+| ❌ | Ant-Man                                        | 2015 | - |                                                       
+| ❌ | Capitán América: Civil War                     | 2016 | - |                                    
+| ❌ | Black Widow                                    | 2021 | - |                                                   
+| ❌ | Spider-Man: De regreso a casa                  | 2017 | - |                                 
+| ❌ | Black Panther                                  | 2018 | - |                                                 
+| ❌ | Doctor Strange                                 | 2016 | - |                                                
+| ❌ | Thor: Ragnarok                                 | 2017 | - |                                                
+| ❌ | Ant-Man and the Wasp                           | 2018 | - |                                          
+| ❌ | Avengers: Infinity War                         | 2018 | - |                                        
+| ❌ | Avengers: Endgame                              | 2019 | - |                                             
+| ❌ | Spider-Man: Lejos de casa                      | 2019 | - |                                     
+| ❌ | Shang-Chi y la leyenda de los Diez Anillos     | 2021 | - |                    
+| ❌ | Eternals                                       | 2021 | - |                                                      
+| ❌ | Spider-Man: Sin camino a casa                  | 2021 | - |                                 
+| ❌ | Doctor Strange en el multiverso de la locura   | 2022 | - |                  
+| ❌ | Thor: Amor y trueno                            | 2022 | - |                                           
+| ❌ | Black Panther: Wakanda Forever                 | 2022 | - |                                
+| ❌ | Ant-Man and the Wasp: Quantumania              | 2023 | - |                             
+| ❌ | Guardianes de la Galaxia Vol. 3                | 2023 | - |                               
+| ❌ | The Marvels                                    | 2023 | - |                                                   
