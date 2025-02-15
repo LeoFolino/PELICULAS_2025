@@ -17,7 +17,6 @@
 - [ ] El Padrino I (1972)
 - [ ] El Padrino II (1974)
 - [ ] Forrest Gump (1994)
-- [ ] Mi papa es un boludo (tuvieja)
 - [ ] Baby Driver (2017)
 - [ ] El Club de la Pelea (1999)
 - [ ] El Pianista (2002)
