@@ -1,5 +1,5 @@
 # PELICULAS 2025
-| ⬜ | Película | Año | Nota |                                                    
+| ⬜ | Película                                      | Año | Nota |                                                    
 |----|-----------------------------------------------|------|------|
 | ❌ | El Exorcista                                  | 1973 | - |     
 | ❌ | Kill Bill Vol. 1                              | 2003 | - |     
@@ -11,7 +11,7 @@
 | ❌ | Titanic                                       | 1997 | - |       
 | ❌ | La La Land                                    | 2016 | - |       
 | ❌ | Orgullo y Prejuicio                           | 2005 | - |       
-| ✅ | Meet Joe Black                                | 1998 | 90 |       
+| ✅ | Meet Joe Black                                | 1998 | 90/93 |       
 | ❌ | Eterno Resplandor de una Mente sin Recuerdos  | 2004 | - |       
 | ❌ | No Strings Attached                           | 2011 | - |       
 | ❌ | Friends with Benefits                         | 2011 | - |       
@@ -27,7 +27,7 @@
 | ❌ | Memento                                       | 2000 | - |         
 | ❌ | El Silencio de los Inocentes                  | 1991 | - |         
 | ❌ | El Resplandor                                 | 1980 | - |         
-| ✅ | Lo que ellas quieren                          | 2000 | 72 |         
+| ✅ | Lo que ellas quieren                          | 2000 | 72/69 |     
 | ❌ | Pulp Fiction                                  | 1994 | - |         
 | ❌ | Blade Runner                                  | 1982 | - |         
 | ❌ | Blade Runner 2049                             | 2017 | - |         
@@ -97,12 +97,12 @@
 # SCREAM
 | ⬜ | Película | Año | Nota |                                                    
 |----|-----------|------|---|                                                   
-| ✅ | Scream    | 1996 | 96 |                                                        
-| ✅ | Scream 2  | 1997 | 90 |                                                      
-| ✅ | Scream 3  | 2000 | 60 |                                                      
-| ✅ | Scream 4  | 2011 | 72 |                                                      
-| ✅ | Scream 5  | 2022 | 83 |                                                      
-| ✅ | Scream VI | 2023 | 77 |                                                     
+| ✅ | Scream    | 1996 | 96/95 |                                                     
+| ✅ | Scream 2  | 1997 | 90/91 |                                                 
+| ✅ | Scream 3  | 2000 | 60/70 |                                                       
+| ✅ | Scream 4  | 2011 | 72/67 |                                                      
+| ✅ | Scream 5  | 2022 | 83/85 |                                                      
+| ✅ | Scream VI | 2023 | 77/79 |                                                     
 
 ---
 
