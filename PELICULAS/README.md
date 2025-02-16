@@ -23,33 +23,44 @@
 | ✅ | Baby Driver                                   | 2017 | 87/85 |        
 | ❌ | El Club de la Pelea                           | 1999 | - |        
 | ❌ | El Pianista                                   | 2002 | - |        
+| ❌ | El numero 23                                  | 2007 | - |        
 | ❌ | Se7en                                         | 1995 | - |         
 | ❌ | El Origen (Inception)                         | 2010 | - |        
 | ❌ | Memento                                       | 2000 | - |         
 | ❌ | El Silencio de los Inocentes                  | 1991 | - |         
+| ❌ | En el corazon del mar                         | 2015 | - |         
 | ❌ | El Resplandor                                 | 1980 | - |         
 | ✅ | Lo que ellas quieren                          | 2000 | 72/69 |     
 | ❌ | Pulp Fiction                                  | 1994 | - |         
 | ❌ | Blade Runner                                  | 1982 | - |         
 | ❌ | Blade Runner 2049                             | 2017 | - |         
+| ❌ | Ted                                           | 2012 | - |         
+| ❌ | Ted 2                                         | 2015 | - |         
 | ❌ | Top Gun                                       | 1986 | - |          
 | ❌ | Top Gun: Maverick                             | 2022 | - |          
 | ❌ | Oppenheimer                                   | 2023 | - |          
+| ❌ | Furiosa                                       | 2024 | - |          
 | ❌ | Matrix                                        | 1999 | - |          
+| ❌ | Loco y estupido amor                          | 2011 | - |          
 | ❌ | Alien, el octavo pasajero                     | 1979 | - |          
 | ❌ | Obi-Wan (SERIE)                               | 2022 | - |          
 | ❌ | Interstellar                                  | 2014 | - |          
+| ❌ | Pequeños secretos                             | 2014 | - |          
 | ❌ | La caza                                       | 2012 | - |           
 | ❌ | Birdman                                       | 2014 | - |           
 | ❌ | Bajos instintos                               | 1992 | - |           
+| ❌ | El coleccionista de huesos                    | 1992 | - |           
 | ❌ | El sexto sentido                              | 1999 | - |           
 | ❌ | Goodfellas                                    | 1990 | - |           
 | ❌ | Casablanca                                    | 1942 | - |           
+| ❌ | Historia de honor                             | 2022 | - |           
 | ❌ | Raging Bull                                   | 1980 | - |           
 | ❌ | Moonlight                                     | 2016 | - |           
 | ❌ | Good Will Hunting                             | 1997 | - |           
+| ❌ | Gran Turismo                                  | 2023 | - |           
 | ❌ | La sociedad de los poetas muertos             | 1989 | - |            
 | ❌ | Mas allá de los sueños                        | 1998 | - |            
+| ❌ | Ready Player One                              | 2018 | - |            
 | ❌ | Jumanji                                       | 1995 | - |            
 | ❌ | Jumanji (2017)                                | 2017 | - |            
 | ❌ | Jumanji: The next level                       | 2019 | - |            
@@ -152,6 +163,45 @@
 
 ---
 
+# AMERICAN PIE
+| ⬜ | Película                              | Año | Nota |                                                    
+|----|---------------------------------------|------|---|            
+| ❌ | American Pie                          | 1999 | - |              
+| ❌ | American Pie 2                        | 2001 | - |                     
+| ❌ | American Pie: La Boda                 | 2003 | - |                       
+| ❌ | American Pie: El Reencuentro          | 2012 | - |                               
+
+---
+
+# RUSH HOUR TRILOGY
+| ⬜ | Película             | Año | Nota |                                                    
+|----|----------------------|------|-----|            
+| ❌ | Rush Hour            | 1998 | - |              
+| ❌ | Rush Hour: 2         | 2001 | - |                     
+| ❌ | Rush Hour: 3         | 2007 | - |                                       
+
+---
+
+# LETHAL WEAPON
+| ⬜ | Película                | Año | Nota |                                                    
+|----|-------------------------|------|---|            
+| ❌ | Lethal Weapon           | 1987 | - |              
+| ❌ | Lethal Weapon: 2        | 1989 | - |                     
+| ❌ | Lethal Weapon: 3        | 1992 | - |                       
+| ❌ | Lethal Weapon: 4        | 1998 | - |                              
+
+---
+
+# JOHN WICK
+| ⬜ | Película                    | Año | Nota |                                                    
+|----|-----------------------------|------|---|            
+| ❌ | John Wick                   | 2014 | - |              
+| ❌ | John Wick 2                 | 2017 | - |                     
+| ❌ | John Wick 3: Parabellum     | 2019 | - |                       
+| ❌ | John Wick Chapter 4         | 2023 | - |                                  
+
+---
+
 # THE DARK KNIGHT
 | ⬜ | Película | Año | Nota |                                                    
 |----|------------------------------------------------|------|---|            
@@ -205,3 +255,24 @@
 | ❌ | Ant-Man and the Wasp: Quantumania              | 2023 | - |                             
 | ❌ | Guardianes de la Galaxia Vol. 3                | 2023 | - |                               
 | ❌ | The Marvels                                    | 2023 | - |                                                   
+
+---
+
+# ARGENTINA
+| ⬜ | Película | Año | Nota |                                                    
+|----|---------------------------------------------------|------|------|            
+| ❌ | Inseparables                                      | 2016 | - |                   
+| ❌ | Corazon loco                                      | 2020 | - |        
+| ❌ | Mi obra maestra                                   | 2018 | - |        
+| ❌ | Mama se fue de viaje                              | 2017 | - |        
+| ❌ | El futbol o yo                                    | 2017 | - |        
+| ❌ | Relatos salvajes                                  | 2014 | - |        
+| ❌ | La extorsion                                      | 2023 | - |        
+| ❌ | El ciudadano ilustre                              | 2016 | - |        
+| ❌ | Corazon de leon                                   | 2013 | - |        
+| ❌ | El robo del siglo                                 | 2020 | - |        
+| ❌ | Nueve reinas                                      | 2000 | - |        
+| ❌ | La señal                                          | 2007 | - |        
+| ❌ | Casi leyendas                                     | 2017 | - |        
+| ❌ | Sin hijos                                         | 2015 | - |        
+| ❌ | Recreo                                            | 2018 | - |            
