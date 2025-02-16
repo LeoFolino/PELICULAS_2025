@@ -9,7 +9,8 @@
 | ❌ | Los Infiltrados                               | 2006 | - |      
 | ❌ | El Lobo de Wall Street                        | 2013 | - |      
 | ❌ | Titanic                                       | 1997 | - |       
-| ❌ | La La Land                                    | 2016 | - |       
+| ❌ | La La Land                                    | 2016 | - |   
+| ❌ | El efecto Mariposa                            | 2000 | - |    
 | ❌ | Orgullo y Prejuicio                           | 2005 | - |       
 | ✅ | Meet Joe Black                                | 1998 | 90/93 |       
 | ❌ | Eterno Resplandor de una Mente sin Recuerdos  | 2004 | - |       
