@@ -16,7 +16,7 @@
 | ❌ | Eterno Resplandor de una Mente sin Recuerdos  | 2004 | - |       
 | ❌ | No Strings Attached                           | 2011 | - |       
 | ❌ | Friends with Benefits                         | 2011 | - |       
-| ❌ | The Butterfly Effect                          | 2004 | - |        
+| ✅ | The Butterfly Effect                          | 2004 | 92/88 |        
 | ❌ | El Padrino I                                  | 1972 | - |        
 | ❌ | El Padrino II                                 | 1974 | - |        
 | ❌ | Forrest Gump                                  | 1994 | - |        
