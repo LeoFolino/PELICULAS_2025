@@ -12,11 +12,11 @@
 | ❌ | La La Land                                    | 2016 | - |   
 | ❌ | El efecto Mariposa                            | 2000 | - |    
 | ❌ | Orgullo y Prejuicio                           | 2005 | - |       
-| ✅ | Meet Joe Black                                | 1998 | 90/93 |       
+| ✅ | Meet Joe Black                                | 1998 | 92/93 |       
 | ❌ | Eterno Resplandor de una Mente sin Recuerdos  | 2004 | - |       
 | ❌ | No Strings Attached                           | 2011 | - |       
 | ❌ | Friends with Benefits                         | 2011 | - |       
-| ✅ | The Butterfly Effect                          | 2004 | 92/88 |        
+| ✅ | The Butterfly Effect                          | 2004 | 90/88 |        
 | ❌ | El Padrino I                                  | 1972 | - |        
 | ❌ | El Padrino II                                 | 1974 | - |        
 | ❌ | Forrest Gump                                  | 1994 | - |        
@@ -58,7 +58,7 @@
 | ❌ | Moonlight                                     | 2016 | - |           
 | ❌ | Good Will Hunting                             | 1997 | - |           
 | ❌ | Gran Turismo                                  | 2023 | - |           
-| ❌ | La sociedad de los poetas muertos             | 1989 | - |            
+| ❌ | La sociedad de los poetas muertos             | 1989 | 90/91 |            
 | ❌ | Mas allá de los sueños                        | 1998 | - |            
 | ❌ | Ready Player One                              | 2018 | - |            
 | ❌ | Jumanji                                       | 1995 | - |            
